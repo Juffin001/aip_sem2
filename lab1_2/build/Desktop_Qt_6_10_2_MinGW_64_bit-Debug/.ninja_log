@@ -1,0 +1,9 @@
+# ninja log v6
+7	599	7928771602286090	lab1_2_autogen/timestamp	34ddebc374ad6635
+609	2936	7928771603015802	CMakeFiles/lab1_2.dir/main.cpp.obj	a82963996f98e6b3
+7	599	7928771602286090	lab1_2_autogen/mocs_compilation.cpp	34ddebc374ad6635
+2972	3182	7928771626645974	lab1_2.exe	a5e574a7b5c3a96f
+7	599	7928771602286090	C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1_2/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_2_autogen/timestamp	34ddebc374ad6635
+7	599	7928771602286090	C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1_2/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_2_autogen/mocs_compilation.cpp	34ddebc374ad6635
+603	2892	7928771602955792	CMakeFiles/lab1_2.dir/lab1_2_autogen/mocs_compilation.cpp.obj	c34fe8d50c594e39
+615	2972	7928771603075813	CMakeFiles/lab1_2.dir/mainwindow.cpp.obj	3d906cde297070b1
