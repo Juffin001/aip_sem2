@@ -1,0 +1,17 @@
+# ninja log v6
+9	554	7934686141647534	p1_autogen/timestamp	ca5c4e7523bfdf1a
+9	554	7934686141647534	p1_autogen/mocs_compilation.cpp	ca5c4e7523bfdf1a
+9	554	7934686141647534	D:/lrn/aip/hws/hw1/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/timestamp	ca5c4e7523bfdf1a
+9	554	7934686141647534	D:/lrn/aip/hws/hw1/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/mocs_compilation.cpp	ca5c4e7523bfdf1a
+565	2508	7934686142464718	CMakeFiles/p1.dir/p1_autogen/mocs_compilation.cpp.obj	7afb5a1ff27cab6f
+574	2549	7934686142520033	CMakeFiles/p1.dir/main.cpp.obj	774a5d47030904de
+581	2695	7934686142658937	CMakeFiles/p1.dir/mainwin.cpp.obj	32829d65202da2a0
+2696	2911	7934686163811267	p1.exe	90b1bf37d34819f
+16	511	7934722312047611	p1_autogen/timestamp	ca5c4e7523bfdf1a
+16	511	7934722312047611	p1_autogen/mocs_compilation.cpp	ca5c4e7523bfdf1a
+16	511	7934722312047611	D:/lrn/aip/hws/hw1/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/timestamp	ca5c4e7523bfdf1a
+16	511	7934722312047611	D:/lrn/aip/hws/hw1/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/mocs_compilation.cpp	ca5c4e7523bfdf1a
+518	2446	7934722312759829	CMakeFiles/p1.dir/p1_autogen/mocs_compilation.cpp.obj	7afb5a1ff27cab6f
+525	2580	7934722312792612	CMakeFiles/p1.dir/main.cpp.obj	774a5d47030904de
+534	2680	7934722312792612	CMakeFiles/p1.dir/mainwin.cpp.obj	32829d65202da2a0
+2680	2914	7934722334290987	p1.exe	90b1bf37d34819f
