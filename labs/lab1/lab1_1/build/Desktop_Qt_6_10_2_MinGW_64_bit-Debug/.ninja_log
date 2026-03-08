@@ -1,0 +1,23 @@
+# ninja log v6
+5	826	7933772329690913	lab1_1_autogen/timestamp	1e73f6e2c2482b95
+5	826	7933772329690913	lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+5	826	7933772329690913	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/timestamp	1e73f6e2c2482b95
+5	826	7933772329690913	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+834	3182	7933772330591949	CMakeFiles/lab1_1.dir/lab1_1_autogen/mocs_compilation.cpp.obj	d299c0eaea8cb831
+853	3232	7933772330771975	CMakeFiles/lab1_1.dir/main.cpp.obj	a24013451b903c68
+912	3242	7933772331376122	CMakeFiles/lab1_1.dir/mainwindow.cpp.obj	6ec49b2d669ea499
+3242	3470	7933772354669576	lab1_1.exe	682bb3237380d108
+19	160	7933773009650174	lab1_1_autogen/timestamp	1e73f6e2c2482b95
+19	160	7933773009650174	lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+19	160	7933773009650174	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/timestamp	1e73f6e2c2482b95
+19	160	7933773009650174	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+169	2034	7933773011210884	CMakeFiles/lab1_1.dir/mainwindow.cpp.obj	6ec49b2d669ea499
+161	2117	7933773011140499	CMakeFiles/lab1_1.dir/main.cpp.obj	a24013451b903c68
+2117	2300	7933773030703631	lab1_1.exe	682bb3237380d108
+9	145	7933774207787979	lab1_1_autogen/timestamp	1e73f6e2c2482b95
+9	145	7933774207787979	lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+9	145	7933774207787979	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/timestamp	1e73f6e2c2482b95
+9	145	7933774207787979	D:/lrn/aip/labs/lab1/lab1_1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/lab1_1_autogen/mocs_compilation.cpp	1e73f6e2c2482b95
+152	2020	7933774209280605	CMakeFiles/lab1_1.dir/mainwindow.cpp.obj	6ec49b2d669ea499
+145	2138	7933774209210185	CMakeFiles/lab1_1.dir/main.cpp.obj	a24013451b903c68
+2138	2327	7933774229133958	lab1_1.exe	682bb3237380d108

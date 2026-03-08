@@ -1,9 +1,0 @@
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/lab1.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/lab1_autogen_timestamp_deps.dir
-C:/Users/79053/lrn fast/aip_2_sem/lab1_files/lab1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/lab1_autogen.dir
