@@ -1,0 +1,27 @@
+# ninja log v6
+5	118	7945952569788445	p1_autogen/timestamp	72089025eabd4c46
+5	118	7945952569788445	p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+5	118	7945952569788445	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/timestamp	72089025eabd4c46
+119	1560	7945952570925425	CMakeFiles/p1.dir/mainwindow.cpp.obj	983af5f9f7f6b920
+574	2876	7945950604634122	CMakeFiles/p1.dir/queue.cpp.obj	4c374eacce18096b
+1561	1775	7945952585351007	p1.exe	af5c8e9f648a4106
+5	118	7945952569788445	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+559	3007	7945950604491734	CMakeFiles/p1.dir/main.cpp.obj	5c99815bd51979c2
+548	2857	7945950604380698	CMakeFiles/p1.dir/p1_autogen/mocs_compilation.cpp.obj	88d6535061c3e2b8
+127	1517	7945952571010763	CMakeFiles/p1.dir/add.cpp.obj	8a6e3cff12d4c624
+6	413	7945957350737228	p1_autogen/timestamp	72089025eabd4c46
+6	413	7945957350737228	p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+6	413	7945957350737228	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/timestamp	72089025eabd4c46
+6	413	7945957350737228	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+438	2263	7945957351552100	CMakeFiles/p1.dir/main.cpp.obj	5c99815bd51979c2
+413	2316	7945957351306608	CMakeFiles/p1.dir/p1_autogen/mocs_compilation.cpp.obj	88d6535061c3e2b8
+515	2445	7945957352321025	CMakeFiles/p1.dir/add.cpp.obj	8a6e3cff12d4c624
+5	429	7945957423063941	p1_autogen/timestamp	72089025eabd4c46
+5	429	7945957423063941	p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+5	429	7945957423063941	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/timestamp	72089025eabd4c46
+5	429	7945957423063941	D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/p1_autogen/mocs_compilation.cpp	72089025eabd4c46
+449	2304	7945957423761935	CMakeFiles/p1.dir/main.cpp.obj	5c99815bd51979c2
+429	2314	7945957423560787	CMakeFiles/p1.dir/p1_autogen/mocs_compilation.cpp.obj	88d6535061c3e2b8
+501	2373	7945957424254838	CMakeFiles/p1.dir/add.cpp.obj	8a6e3cff12d4c624
+481	2446	7945957424073790	CMakeFiles/p1.dir/mainwindow.cpp.obj	983af5f9f7f6b920
+2446	2681	7945957443727883	p1.exe	af5c8e9f648a4106

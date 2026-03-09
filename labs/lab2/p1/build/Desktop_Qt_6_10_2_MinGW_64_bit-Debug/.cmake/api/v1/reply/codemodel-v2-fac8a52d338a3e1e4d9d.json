@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-af87c42cfaf36704d8fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1-Debug-f7a1913db10f2cfd06d4.json",
+					"name" : "p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1_autogen-Debug-11107df71585f436e1e9.json",
+					"name" : "p1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1_autogen_timestamp_deps-Debug-aa2344c8f5c8684a4721.json",
+					"name" : "p1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/lrn/aip/labs/lab2/p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "D:/lrn/aip/labs/lab2/p1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
