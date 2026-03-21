@@ -1,0 +1,15 @@
+D:\lrn\aip\labs\lab3\p1\bin\Debug\net8.0\p1.exe
+D:\lrn\aip\labs\lab3\p1\bin\Debug\net8.0\p1.deps.json
+D:\lrn\aip\labs\lab3\p1\bin\Debug\net8.0\p1.runtimeconfig.json
+D:\lrn\aip\labs\lab3\p1\bin\Debug\net8.0\p1.dll
+D:\lrn\aip\labs\lab3\p1\bin\Debug\net8.0\p1.pdb
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.AssemblyInfoInputs.cache
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.AssemblyInfo.cs
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.csproj.CoreCompileInputs.cache
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.sourcelink.json
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.dll
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\refint\p1.dll
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.pdb
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\p1.genruntimeconfig.cache
+D:\lrn\aip\labs\lab3\p1\obj\Debug\net8.0\ref\p1.dll
