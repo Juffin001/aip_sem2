@@ -1,0 +1,17 @@
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\lrn\aip\prct\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\lrn\aip\prct\TicTacToe\bin\Debug\TicTacToe.exe
+D:\lrn\aip\prct\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\lrn\aip\prct\TicTacToe\bin\Debug\AtkSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\CairoSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\GdkSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\GioSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\GLibSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\GtkSharp.dll
+D:\lrn\aip\prct\TicTacToe\bin\Debug\PangoSharp.dll
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.exe
+D:\lrn\aip\prct\TicTacToe\obj\Debug\TicTacToe.pdb
